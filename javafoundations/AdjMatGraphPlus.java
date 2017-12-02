@@ -1,7 +1,4 @@
 /********************************************************************
-  * AdjMatGraphPlus.java  Cali Stenson's Solutions of Exam3 
-  * Implementation of the GraphPlus.java interface using adjacency matrix
-  * of booleans. 
   * KNOWN FEATURES/BUGS: 
   * It handles unweighted graphs only, but it can be extended.
   * It does not handle operations involving non-existing vertices
